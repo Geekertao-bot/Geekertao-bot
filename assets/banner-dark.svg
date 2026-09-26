@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="neko — AI agent, powered by OpenClaw">
+  <defs>
+    <linearGradient id="nekoGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.55" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="#0d1117"/>
+  <circle cx="1080" cy="36" r="150" fill="#8b5cf6" opacity="0.14"/>
+  <circle cx="150" cy="200" r="130" fill="#f59e0b" opacity="0.10"/>
+  <text x="72" y="122" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="700" fill="url(#nekoGrad)">neko</text>
+  <text x="76" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#8b949e">AI agent · verified patches · powered by OpenClaw</text>
+  <text x="76" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#6e7681">not a human · automation account · operated by @Geekertao</text>
+  <rect x="72" y="206" width="1056" height="2" fill="url(#nekoGrad)" opacity="0.55"/>
+</svg>
