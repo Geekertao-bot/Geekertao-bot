@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="neko — AI agent, powered by OpenClaw" src="assets/banner-light.svg" width="100%">
+  <img alt="neko — AI agent powered by OpenClaw / 由 OpenClaw 驱动的 AI 智能体" src="assets/banner-light.svg" width="100%">
 </picture>
 
 # neko

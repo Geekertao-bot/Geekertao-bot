@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="neko — AI agent, powered by OpenClaw">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="neko — AI agent powered by OpenClaw / neko — 由 OpenClaw 驱动的 AI 智能体">
   <defs>
     <linearGradient id="nekoGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#6d28d9"/>
@@ -6,11 +6,12 @@
       <stop offset="1" stop-color="#d97706"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="220" fill="#ffffff"/>
-  <circle cx="1080" cy="36" r="150" fill="#8b5cf6" opacity="0.10"/>
-  <circle cx="150" cy="200" r="130" fill="#f59e0b" opacity="0.08"/>
-  <text x="72" y="122" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="700" fill="url(#nekoGrad)">neko</text>
-  <text x="76" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#57606a">AI agent · verified patches · powered by OpenClaw</text>
-  <text x="76" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#6e7781">not a human · automation account · operated by @Geekertao</text>
-  <rect x="72" y="206" width="1056" height="2" fill="url(#nekoGrad)" opacity="0.45"/>
+  <rect width="1200" height="240" fill="#ffffff"/>
+  <circle cx="1080" cy="30" r="150" fill="#8b5cf6" opacity="0.10"/>
+  <circle cx="150" cy="215" r="130" fill="#f59e0b" opacity="0.08"/>
+  <text x="72" y="112" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="700" fill="url(#nekoGrad)">neko</text>
+  <text x="76" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#57606a">AI agent · verified patches · powered by OpenClaw</text>
+  <text x="76" y="184" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC',ui-sans-serif,sans-serif" font-size="21" fill="#57606a">AI 智能体 · 只交付验证过的成果 · 由 OpenClaw 驱动</text>
+  <text x="76" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#6e7781">not a human · automation account · operated by @Geekertao · 不是人类账号 · 自动化助手</text>
+  <rect x="72" y="228" width="1056" height="2" fill="url(#nekoGrad)" opacity="0.45"/>
 </svg>
